@@ -4,6 +4,7 @@ Manifest.txt
 README.txt
 Rakefile
 init.rb
+lib/spec/rails/story_adapter.rb
 lib/spec/runner/formatter/story/html_formatter.rb
 lib/spec/runner/formatter/story/plain_text_formatter.rb
 lib/spec/runner/formatter/story/progress_bar_formatter.rb
