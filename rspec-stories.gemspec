@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{rspec-stories}
-  s.version = "1.0.0"
+  s.version = "1.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["RSpec Development Team"]
-  s.date = %q{2009-01-12}
+  s.date = %q{2009-05-11}
   s.description = %q{Behaviour Driven Development for Ruby.}
   s.email = ["rspec-devel@rubyforge.org"]
   s.extra_rdoc_files = ["History.txt", "License.txt", "Manifest.txt", "README.txt"]
